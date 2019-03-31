@@ -1,0 +1,12 @@
+{
+    "Master": [
+        "AE Render Bin"
+    ], 
+    "Media": [
+        {
+            "AE Render Bin": [
+                "D:\\AE-to-Resolve_Demo\\AE_Renders"
+            ] 
+        }
+    ]
+}
