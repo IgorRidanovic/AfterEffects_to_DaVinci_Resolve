@@ -1,6 +1,6 @@
 # AfterEffects_to_DaVinci_Resolve
 
-Automatically imports Adobe After Effects renders into a DaVinci Resolve project.
+Automatically imports Adobe After Effects renders into a DaVinci Resolve project. Demo at https://youtu.be/urJ1XmPUR9Y.
 
 Send to Resolve.jsx is a proof of concept Adobe After Effects script that facilitates automatic import of rendered After Effects comps to a freshly created DaVinci Resolve project. 
 
